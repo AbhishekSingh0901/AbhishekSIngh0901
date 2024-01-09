@@ -1,7 +1,7 @@
-![MasterHead](https://drive.google.com/drive/folders/1Ry8A0GehlONB8oF02tgvj30enY18zUH-)
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQG5x9BExNYSdA/profile-displaybackgroundimage-shrink_350_1400/0/1658310625030?e=1710374400&v=beta&t=rsWO0oEWqKkdM-u4n9sk39nrWiroPT62LfMjw16wgN8)
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Full Stack Web Development Enthusiast</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align = "right" alt = "Coding" width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh0901&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh0901" /> </p>
 
 - 🔭 I’m currently working on **Learning React**
@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-singh-2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-2000" height="30" width="40" /></a>
+<a href="https://twitter.com/Bazinga_09" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704758400&semt=ais" alt="abhishek-singh-2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
