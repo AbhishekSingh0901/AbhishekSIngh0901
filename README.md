@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN stack development**
 
-- 📫 How to reach me **as9284608@gmail.com**
+- 📫 How to reach me **abhisheksinghh904@gmail.com**
 
 
 # 💻 Tech Stack:
